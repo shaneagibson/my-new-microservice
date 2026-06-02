@@ -1,9 +1,0 @@
-build/
-.gradle/
-.git/
-.gitignore
-*.md
-.idea/
-*.iml
-.env
-gradlew.bat
